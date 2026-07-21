@@ -19,7 +19,7 @@
 &nbsp;
 <a href="https://universe.roboflow.com/abdullah-javid/pill-kjhgx-ac03p"><img src="https://img.shields.io/badge/Dataset-959%20Images-3B82F6?style=for-the-badge&labelColor=0f172a"/></a>
 &nbsp;
-<a href="https://github.com/mabdullahab614-alt/tablet-defect-inspector/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-8B5CF6?style=for-the-badge&labelColor=0f172a"/></a>
+<a href="#-license"><img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-DC2626?style=for-the-badge&labelColor=0f172a"/></a>
 
 <br/><br/>
 
@@ -268,9 +268,19 @@ tablet-defect-inspector/
 
 ## 📜 License
 
-**CC BY 4.0** — © 2026 Abdullah Javid
+**All Rights Reserved © 2026 Abdullah Javid**
 
-Free to use, share, and adapt with attribution.
+This repository and its contents — including source code, trained model, dataset structure, ideas, and documentation — are made publicly visible **for portfolio and demonstration purposes only**.
+
+**No part of this repository may be copied, modified, distributed, sublicensed, or used** — in whole or in part, for personal, educational, or commercial purposes — without explicit prior written permission from the author.
+
+Forking or cloning this repository does **not** grant any rights to use, reproduce, or redistribute its contents.
+
+If you are interested in using any part of this project, please contact me directly for permission:
+
+📧 **Email:** mabdullah.ab614@gmail.com
+🔗 **GitHub:** [github.com/mabdullahab614-alt](https://github.com/mabdullahab614-alt)
+💼 **LinkedIn:** [linkedin.com/in/abdullah-javid-b217a2384](https://www.linkedin.com/in/abdullah-javid-b217a2384/)
 
 ---
 
